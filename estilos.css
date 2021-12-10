@@ -1,0 +1,72 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color:orange;
+    text-align:center;
+    height: 5vh;
+}
+
+
+#primero div {
+    width: 20vw;
+    height:4vw;
+    margin:1vw;
+    border:solid black 2px;
+    background-color:greenyellow;
+    float:left;
+}
+#primero div p{
+    padding:1vw;
+}
+#primero{
+    background-color:rgb(163, 84, 216);
+    height: 26vh;
+    
+}
+
+#primero #Cinco{
+    clear:both;
+}
+
+
+#segundo div{
+    float:right;
+    border:solid whitesmoke 2px;
+}
+
+
+#segundo {
+    height:70vh;
+    background-color:darkslategray;
+    padding:1vw;
+}
+#p1{
+    height: 75%;
+    width: 32%;
+    background-color:violet;
+    
+}
+
+#p2{
+    width:65%;
+    height: 16%;
+    background-color:lightcoral;
+    
+
+}
+
+#p3{
+    margin:1vw;
+    width:65%;
+    height: 16%;
+    background-color:brown;
+}
+
+#p4{
+    margin:auto;
+    background-color:darkgoldenrod;
+}
